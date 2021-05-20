@@ -8,3 +8,4 @@ df = pd.DataFrame()
 # COMMAND ----------
 
 df.head()
+print("Added a line from local JupyterLab")
