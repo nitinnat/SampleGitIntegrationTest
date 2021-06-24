@@ -11,4 +11,4 @@ def div_two_numbers(a, b):
     return a/b
 
 def print_hello():
-    prin("hello")
+    print("hello")

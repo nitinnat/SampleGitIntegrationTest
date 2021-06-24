@@ -22,5 +22,6 @@ setup(name='SampleTest',
       version=version_str,
       description=version_desc,
       packages=[],
+      py_modules=['math_calcs.py']
       include_package_data=True,
       package_data={})
