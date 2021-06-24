@@ -9,3 +9,6 @@ def mul_two_numbers(a, b):
 
 def div_two_numbers(a, b):
     return a/b
+
+def print_hello():
+    prin("hello")
