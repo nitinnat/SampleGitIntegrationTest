@@ -11,4 +11,4 @@ def div_two_numbers(a, b):
     return a/b
 
 def print_hello():
-    prin("hello, test comment from second branch!")
+    print("hello, test comment from second branch! comment from bambi")
